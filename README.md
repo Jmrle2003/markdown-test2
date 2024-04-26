@@ -60,7 +60,7 @@ ___
 | Celda 1,1    | Celda 1,2    | Celda 1,3    |
 | Celda 2,1    | Celda 2,2    | Celda 2,3    
 
-![visual studio code logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pCdMCGqqT4lpGXkBVfm9FzShLzGyyXGF7O3QClVoyZ5NSL4bnwo-14JdIHSa1oHuGy8&usqp=CAU "Logo")
+![Messi]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2pCdMCGqqT4lpGXkBVfm9FzShLzGyyXGF7O3QClVoyZ5NSL4bnwo-14JdIHSa1oHuGy8&usqp=CAU](https://assets.goal.com/images/v3/bltaaa483e47da093c4/GettyImages-1450106798.jpg?auto=webp&format=pjpg&width=3840&quality=60) "Messi")
 
 <!-- GITHUB MARKDOWN -->
 * [x] Task 1
