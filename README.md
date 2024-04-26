@@ -30,7 +30,7 @@ This is an ~~strike~~  text
 
 
 
-[Messi](https://www.claro.com.ar/personas "Messi")
+[Messi](https://messi.com/ "Messi")
 
 > This is a quote
 
