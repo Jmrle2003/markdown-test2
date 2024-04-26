@@ -28,9 +28,9 @@ This is an ~~strike~~  text
 2. orange
 3. banana
 
-[Claro](https://www.claro.com.ar/personas)
 
-[Claro](https://www.claro.com.ar/personas "Personas")
+
+[Messi](https://www.claro.com.ar/personas "Messi")
 
 > This is a quote
 
